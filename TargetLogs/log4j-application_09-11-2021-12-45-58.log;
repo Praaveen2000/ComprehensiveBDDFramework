@@ -1,0 +1,7 @@
+2021-11-09 12:46:09,667  INFO [main] TideStepDefinition:11 -  Hovered on shopProduct and clicked on powder 
+ 2021-11-09 12:46:10,812  INFO [main] TideStepDefinition:11 - The Desired text is present
+ 2021-11-09 12:46:19,075  INFO [main] TideStepDefinition:11 - The Values are accesed from the Cucumber feature file into SearchBox
+ 2021-11-09 12:46:21,724  INFO [main] TideStepDefinition:11 - The Desired text is present
+ 2021-11-09 12:46:25,535  INFO [main] TideStepDefinition:11 - How to Laundry Page appears succesfully
+ 2021-11-09 12:46:26,484  INFO [main] TideStepDefinition:11 - The Desired text is present
+ 
