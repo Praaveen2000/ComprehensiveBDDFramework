@@ -1,0 +1,9 @@
+2021-11-19 14:08:48,376  INFO [main] BigsmallSiteRunner:11 - The Values are accesed from the Excel sheet into SearchBox and navigated to SearchResults page
+ 2021-11-19 14:08:52,901 ERROR [main] BigsmallSiteRunner:19 - Not navigated to SearchResults page
+ 2021-11-19 14:08:52,968 ERROR [main] BigsmallSiteRunner:19 - Not navigated to the Login Page
+ 2021-11-19 14:08:53,018 ERROR [main] BigsmallSiteRunner:19 - Cart Page not popped
+ 2021-11-19 14:08:53,053 ERROR [main] BigsmallSiteRunner:19 - Cart Page not popped
+ 2021-11-19 14:08:53,080 ERROR [main] BigsmallSiteRunner:19 - Not navigated to wishlist page
+ 2021-11-19 14:08:53,154 ERROR [main] BigsmallSiteRunner:19 - Not navigated to Contact Us page
+ 2021-11-19 14:08:53,192 ERROR [main] BigsmallSiteRunner:19 - Not navigated to About Us page
+ 

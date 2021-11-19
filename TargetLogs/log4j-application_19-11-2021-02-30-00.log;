@@ -1,0 +1,23 @@
+2021-11-19 14:30:12,297  INFO [main] BigsmallSiteRunner:11 - The Values are accesed from the Excel sheet into SearchBox and navigated to SearchResults page
+ 2021-11-19 14:30:14,944  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:30:19,795  INFO [main] BigsmallSiteRunner:11 - The Desired product is added to wishlist
+ 2021-11-19 14:30:23,453 DEBUG [main] BigsmallSiteRunner:7 - SearchResult page found within HomePage
+ 2021-11-19 14:30:23,983 DEBUG [main] BigsmallSiteRunner:7 - The Desired choice could not be selected as the result page is available under Homepage
+ 2021-11-19 14:30:26,806  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:30:30,899  INFO [main] BigsmallSiteRunner:11 - The Desired product is added to cart
+ 2021-11-19 14:30:37,623  INFO [main] BigsmallSiteRunner:11 - Navigated to SearchResults page
+ 2021-11-19 14:30:41,650  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:30:46,461  INFO [main] BigsmallSiteRunner:11 - The Desired product is checked for delivery
+ 2021-11-19 14:30:51,365  INFO [main] BigsmallSiteRunner:11 - Navigated to the Login Page
+ 2021-11-19 14:30:53,494  INFO [main] BigsmallSiteRunner:11 - Navigated to Reset password page
+ 2021-11-19 14:30:59,968  WARN [main] BigsmallSiteRunner:15 - Too many attempts page opens sometimes!!!
+ 2021-11-19 14:30:59,969  INFO [main] BigsmallSiteRunner:11 - Navigated back to login page and notification is shown
+ 2021-11-19 14:31:03,183  INFO [main] BigsmallSiteRunner:11 - Cart Page popped
+ 2021-11-19 14:31:15,021  INFO [main] BigsmallSiteRunner:11 - Navigated to Checkout and returned to HomePage
+ 2021-11-19 14:31:18,237  INFO [main] BigsmallSiteRunner:11 - Cart Page popped
+ 2021-11-19 14:31:20,504  INFO [main] BigsmallSiteRunner:11 - Item successfully removed from cart
+ 2021-11-19 14:31:24,712 ERROR [main] BigsmallSiteRunner:19 - Not navigated to wishlist page
+ 2021-11-19 14:31:55,330 ERROR [main] BigsmallSiteRunner:19 - Item not removed from wishlist
+ 2021-11-19 14:32:28,889 ERROR [main] BigsmallSiteRunner:19 - Not navigated to Contact Us page
+ 2021-11-19 14:32:59,771 ERROR [main] BigsmallSiteRunner:19 - Not navigated to About Us page
+ 

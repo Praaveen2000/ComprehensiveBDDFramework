@@ -1,0 +1,16 @@
+2021-11-19 14:15:08,100  INFO [main] BigsmallSiteRunner:11 - The Values are accesed from the Excel sheet into SearchBox and navigated to SearchResults page
+ 2021-11-19 14:15:10,769  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:15:15,079  INFO [main] BigsmallSiteRunner:11 - The Desired product is added to wishlist
+ 2021-11-19 14:15:22,149  INFO [main] BigsmallSiteRunner:11 - Navigated to SearchResults page
+ 2021-11-19 14:15:26,120  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:15:28,400  INFO [main] BigsmallSiteRunner:11 - Navigated to the Login Page
+ 2021-11-19 14:15:30,490  INFO [main] BigsmallSiteRunner:11 - Navigated to Reset password page
+ 2021-11-19 14:15:38,315  WARN [main] BigsmallSiteRunner:15 - Too many attempts page opens sometimes!!!
+ 2021-11-19 14:15:38,315  INFO [main] BigsmallSiteRunner:11 - Navigated back to login page and notification is shown
+ 2021-11-19 14:15:41,561  INFO [main] BigsmallSiteRunner:11 - Cart Page popped
+ 2021-11-19 14:15:44,253 ERROR [main] BigsmallSiteRunner:19 - Unable to checkout
+ 2021-11-19 14:15:44,346 ERROR [main] BigsmallSiteRunner:19 - Cart Page not popped
+ 2021-11-19 14:15:44,382 ERROR [main] BigsmallSiteRunner:19 - Not navigated to wishlist page
+ 2021-11-19 14:15:44,425 ERROR [main] BigsmallSiteRunner:19 - Not navigated to Contact Us page
+ 2021-11-19 14:15:44,489 ERROR [main] BigsmallSiteRunner:19 - Not navigated to About Us page
+ 

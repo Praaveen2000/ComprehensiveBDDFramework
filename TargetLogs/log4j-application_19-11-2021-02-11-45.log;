@@ -1,0 +1,13 @@
+2021-11-19 14:11:57,144  INFO [main] BigsmallSiteRunner:11 - Navigated to SearchResults page
+ 2021-11-19 14:12:01,404  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:12:03,132  INFO [main] BigsmallSiteRunner:11 - Navigated to the Login Page
+ 2021-11-19 14:12:05,280  INFO [main] BigsmallSiteRunner:11 - Navigated to Reset password page
+ 2021-11-19 14:12:13,378  WARN [main] BigsmallSiteRunner:15 - Too many attempts page opens sometimes!!!
+ 2021-11-19 14:12:13,379  INFO [main] BigsmallSiteRunner:11 - Navigated back to login page and notification is shown
+ 2021-11-19 14:12:17,460  INFO [main] BigsmallSiteRunner:11 - Cart Page popped
+ 2021-11-19 14:12:26,327 ERROR [main] BigsmallSiteRunner:19 - Unable to checkout
+ 2021-11-19 14:12:26,381 ERROR [main] BigsmallSiteRunner:19 - Cart Page not popped
+ 2021-11-19 14:12:26,445 ERROR [main] BigsmallSiteRunner:19 - Not navigated to wishlist page
+ 2021-11-19 14:12:26,474 ERROR [main] BigsmallSiteRunner:19 - Not navigated to Contact Us page
+ 2021-11-19 14:12:26,522 ERROR [main] BigsmallSiteRunner:19 - Not navigated to About Us page
+ 

@@ -1,0 +1,8 @@
+2021-11-19 14:20:57,601  INFO [main] BigsmallSiteRunner:11 - The Values are accesed from the Excel sheet into SearchBox and navigated to SearchResults page
+ 2021-11-19 14:21:00,381  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:21:05,263  INFO [main] BigsmallSiteRunner:11 - The Desired product is added to wishlist
+ 2021-11-19 14:21:08,994 DEBUG [main] BigsmallSiteRunner:7 - SearchResult page found within HomePage
+ 2021-11-19 14:21:09,597 DEBUG [main] BigsmallSiteRunner:7 - The Desired choice could not be selected as the result page is available under Homepage
+ 2021-11-19 14:21:12,214  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:21:43,412 ERROR [main] BigsmallSiteRunner:19 - Not navigated to SearchResults page
+ 

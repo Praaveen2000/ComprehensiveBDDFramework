@@ -1,0 +1,21 @@
+2021-11-19 14:24:01,646  INFO [main] BigsmallSiteRunner:11 - The Values are accesed from the Excel sheet into SearchBox and navigated to SearchResults page
+ 2021-11-19 14:24:05,316  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:24:10,501  INFO [main] BigsmallSiteRunner:11 - The Desired product is added to wishlist
+ 2021-11-19 14:24:14,223 DEBUG [main] BigsmallSiteRunner:7 - SearchResult page found within HomePage
+ 2021-11-19 14:24:14,730 DEBUG [main] BigsmallSiteRunner:7 - The Desired choice could not be selected as the result page is available under Homepage
+ 2021-11-19 14:24:17,218  INFO [main] BigsmallSiteRunner:11 - The Desired product is selected
+ 2021-11-19 14:24:48,481 ERROR [main] BigsmallSiteRunner:19 - Not navigated to SearchResults page
+ 2021-11-19 14:25:20,897 ERROR [main] BigsmallSiteRunner:19 - The Desired product could not be selected
+ 2021-11-19 14:25:22,486 ERROR [main] BigsmallSiteRunner:19 - The Desired product could not be checked for delivery
+ 2021-11-19 14:25:27,000 ERROR [main] BigsmallSiteRunner:19 - Not navigated to the Login Page
+ 2021-11-19 14:25:59,300 ERROR [main] BigsmallSiteRunner:19 - Not navigated to Reset password page
+ 2021-11-19 14:26:29,586 ERROR [main] BigsmallSiteRunner:19 - Invalid Email! Could not retrive password
+ 2021-11-19 14:26:34,036 ERROR [main] BigsmallSiteRunner:19 - Cart Page not popped
+ 2021-11-19 14:27:06,351 ERROR [main] BigsmallSiteRunner:19 - Unable to checkout
+ 2021-11-19 14:27:11,254 ERROR [main] BigsmallSiteRunner:19 - Cart Page not popped
+ 2021-11-19 14:27:43,859 ERROR [main] BigsmallSiteRunner:19 - Item not removed from cart
+ 2021-11-19 14:27:48,312 ERROR [main] BigsmallSiteRunner:19 - Not navigated to wishlist page
+ 2021-11-19 14:28:18,646 ERROR [main] BigsmallSiteRunner:19 - Item not removed from wishlist
+ 2021-11-19 14:28:23,046 ERROR [main] BigsmallSiteRunner:19 - Not navigated to Contact Us page
+ 2021-11-19 14:28:24,392 ERROR [main] BigsmallSiteRunner:19 - Not navigated to About Us page
+ 

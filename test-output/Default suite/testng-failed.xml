@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.mindtree.runner.TestRunner">
+      <class name="com.mindtree.runner.BigsmallSiteRunner">
         <methods>
-          <include name="runScenario" invocation-numbers="0 1 2"/>
+          <include name="runScenario" invocation-numbers="7 8 9"/>
           <include name="tearDownClass"/>
           <include name="setUpClass"/>
         </methods>
-      </class> <!-- com.mindtree.runner.TestRunner -->
+      </class> <!-- com.mindtree.runner.BigsmallSiteRunner -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

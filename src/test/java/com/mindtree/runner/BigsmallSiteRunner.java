@@ -8,7 +8,7 @@ import io.cucumber.testng.CucumberOptions;
 		glue = "com.mindtree.stepDefinition",
 		monochrome = true
 )
-public class TestRunner extends AbstractTestNGCucumberTests {
+public class BigsmallSiteRunner extends AbstractTestNGCucumberTests {
 
 
 
